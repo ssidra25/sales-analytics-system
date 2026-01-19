@@ -1,0 +1,82 @@
+==================================================
+           SALES ANALYTICS REPORT
+         Generated: 2026-01-14 02:45:17
+         Records Processed: 19
+==================================================
+
+OVERALL SUMMARY
+--------------------------------------------------
+Total Revenue:        ₹848,902.00
+Total Transactions:   19
+Average Order Value:  ₹44,679.05
+Date Range:           2024-12-03 to 2024-12-30
+
+REGION-WISE PERFORMANCE
+--------------------------------------------------
+Region       Sales           % Total   Transactions
+West         ₹   848,902     100.00%      19
+
+TOP 5 PRODUCTS
+--------------------------------------------------
+1. LaptopPremium | Qty: 5 | Revenue: ₹374,095.00
+2. Monitor | Qty: 16 | Revenue: ₹310,745.00
+3. Webcam | Qty: 8 | Revenue: ₹34,072.00
+4. Headphones | Qty: 9 | Revenue: ₹26,541.00
+5. External Hard Drive1TB | Qty: 7 | Revenue: ₹24,360.00
+
+TOP 5 CUSTOMERS
+--------------------------------------------------
+1. C010 | Spent: ₹374,095.00 | Orders: 1
+2. C024 | Spent: ₹149,481.00 | Orders: 1
+3. C005 | Spent: ₹102,494.00 | Orders: 2
+4. C008 | Spent: ₹82,695.00 | Orders: 2
+5. C009 | Spent: ₹56,211.00 | Orders: 3
+
+DAILY SALES TREND
+--------------------------------------------------
+2024-12-03 | ₹26,541.00 | Tx: 1 | Customers: 1
+2024-12-06 | ₹34,072.00 | Tx: 1 | Customers: 1
+2024-12-07 | ₹154,991.00 | Tx: 6 | Customers: 6
+2024-12-13 | ₹385,789.00 | Tx: 2 | Customers: 2
+2024-12-16 | ₹3,020.00 | Tx: 1 | Customers: 1
+2024-12-18 | ₹70,464.00 | Tx: 1 | Customers: 1
+2024-12-20 | ₹594.00 | Tx: 1 | Customers: 1
+2024-12-22 | ₹18,054.00 | Tx: 3 | Customers: 3
+2024-12-24 | ₹152,817.00 | Tx: 2 | Customers: 2
+2024-12-30 | ₹2,560.00 | Tx: 1 | Customers: 1
+
+PRODUCT PERFORMANCE ANALYSIS
+--------------------------------------------------
+Best Selling Day:
+2024-12-13 | Revenue: ₹385,789.00 | Transactions: 2
+
+Low Performing Products (Qty < 10):
+- Webcam | Qty: 8 | Revenue: ₹34,072.00
+- WebcamHD | Qty: 6 | Revenue: ₹17,862.00
+- Keyboard | Qty: 8 | Revenue: ₹11,808.00
+- MouseWireless | Qty: 4 | Revenue: ₹2,560.00
+- Laptop Charger | Qty: 6 | Revenue: ₹11,694.00
+- LaptopPremium | Qty: 5 | Revenue: ₹374,095.00
+- Headphones | Qty: 9 | Revenue: ₹26,541.00
+- External Hard Drive1TB | Qty: 7 | Revenue: ₹24,360.00
+
+Average Transaction Value per Region:
+- West: ₹44,679.05
+
+API ENRICHMENT SUMMARY
+--------------------------------------------------
+Products Enriched: 0
+Success Rate: 0.00%
+Products Not Enriched:
+- External Hard Drive1TB
+- Headphones
+- Keyboard
+- Laptop Charger
+- LaptopPremium
+- Monitor
+- Mouse
+- MouseWireless
+- USB Cable
+- Webcam
+- WebcamHD
+- Wireless Mouse
