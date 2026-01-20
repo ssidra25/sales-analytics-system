@@ -1,6 +1,6 @@
 ==================================================
            SALES ANALYTICS REPORT
-         Generated: 2026-01-19 11:20:01
+         Generated: 2026-01-20 01:34:20
          Records Processed: 70
 ==================================================
 
@@ -19,7 +19,7 @@ South        ₹   889,332      25.21%      13
 West         ₹   848,902      24.06%      19
 East         ₹   467,969      13.27%      17
 
-TOP 5 PRODUCTS
+TOP 5 PRODUCTS (BASED ON REVENUE)
 --------------------------------------------------
 1. LaptopPremium | Qty: 27 | Revenue: ₹2,069,871.00
 2. Monitor | Qty: 30 | Revenue: ₹493,759.00
